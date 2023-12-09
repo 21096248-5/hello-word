@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 Repositório de teste - Mapa
 
 Prefiro não colocar informações minhas nesse documento.
